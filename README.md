@@ -10,12 +10,7 @@ Today’s digital experience is structured around applications that prioritize e
 👉 [View the full paper (PDF)](the-rewritten-screen.pdf)
 👉 [Download the full paper (PDF)](https://github.com/rareaspect/the-rewritten-screen/raw/main/the-rewritten-screen.pdf)
 
-## Persistent link
-
-This work is referenced in publications via the following persistent URL (PURL):
-
-- https://purl.archive.org/rareaspect/the-rewritten-screen
-
 ## Discussion
 
-For questions and discussion about this paper, please use the GitHub Discussions space for this repository
+For questions and discussion about this paper, please use the GitHub Discussions space for this repository:
+👉 [Join the discussion on GitHub](https://github.com/rareaspect/the-rewritten-screen/discussions)
