@@ -1,2 +1,20 @@
-# the-rewritten-screen
-The Rewritten Screen Paper
+# The Rewritten Screen: AI Advocacy Providing Agency for Individuals
+
+**Author:** Rare Aspect LLC  
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)  
+
+Today’s digital experience is structured around applications that prioritize engagement and platform lock-in, rather than acting in the best interest of the individual. This work proposes a user-side AI advocate that rewrites any interface into a task-first, intent-centric experience — reducing distraction, standardizing common tasks, and restoring agency to the individual. 
+
+## Download
+
+👉 [Download the full paper (PDF)](the-rewritten-screen.pdf)
+
+## Persistent link
+
+This work is referenced in publications via the following persistent URL (PURL):
+
+- https://purl.archive.org/rareaspect/the-rewritten-screen
+
+## Discussion
+
+For questions and discussion about this paper, please use the GitHub Discussions space for this repository
