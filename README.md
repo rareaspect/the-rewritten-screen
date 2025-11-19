@@ -7,7 +7,7 @@ Today’s digital experience is structured around applications that prioritize e
 
 ## Download
 
-👉 [Download the full paper (PDF)](the-rewritten-screen.pdf)
+👉 [Download the full paper (PDF)](https://github.com/rareaspect/the-rewritten-screen/raw/main/the-rewritten-screen.pdf)
 
 ## Persistent link
 
