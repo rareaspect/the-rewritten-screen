@@ -14,3 +14,7 @@ Today’s digital experience is structured around applications that prioritize e
 
 For questions and discussion about this paper, please use the GitHub Discussions space for this repository:
 👉 [Join the discussion on GitHub](https://github.com/rareaspect/the-rewritten-screen/discussions)
+
+## Legal Notice (Informational Use Only) 
+
+This paper is provided by Rare Aspect LLC for general informational and research discussion purposes. It is not legal, regulatory, financial, or technical advice, and no warranties are made as to accuracy or completeness. Any implementation based on these concepts must be independently evaluated for safety, legality, and compliance with applicable laws, platform terms, and third-party rights. Do not use these ideas to bypass access controls, violate terms of service, or infringe intellectual property. Use is at your own risk.
